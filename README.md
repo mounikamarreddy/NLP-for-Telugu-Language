@@ -1,6 +1,6 @@
 # NLP-for-Telugu-Language
 
-In this the code for my research papers are placed as zip folders.
+In this github repo, the code for each of research papers are placed as zip folders.
 
 If anyone want train/test/validation split of the datasets that I mentioned in my papers, please refer the below hugging face link:
 https://huggingface.co/mounikaiiith
