@@ -12,7 +12,9 @@ The hugging face link consists of five different Telugu datasets.
 5. Telugu clickbait dataset - The dataset contains 112,657 headline sentences. We considered two labels as "yes" and "no". The data is divided as 70%-training, 20%-testing, 10%-validation split.
 
 If anyone want to use the pretrained feature representations that we developed from scratch on Telugu language, please refer the below hugging face links:
+
 https://huggingface.co/ltrctelugu
+
 https://huggingface.co/subbareddyiiit - the Telugu models are named with prefix "Te".
 
 
