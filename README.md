@@ -19,6 +19,7 @@ https://huggingface.co/subbareddyiiit - the Telugu models are named with prefix 
 # citations for using the datasets
 
 For using the three class sentiment, five class emotion, sarcasm, and hatespeech Telugu datasets, do cite the below journal
+
 @article{marreddy2022resource,
   title={Am I a Resource-Poor Language? Data Sets, Embeddings, Models and Analysis for four different NLP tasks in Telugu Language},
   author={Marreddy, Mounika and Oota, Subba Reddy and Vakada, Lakshmi Sireesha and Chinni, Venkata Charan and Mamidi, Radhika},
@@ -27,6 +28,7 @@ For using the three class sentiment, five class emotion, sarcasm, and hatespeech
 }
 
 For using the clickbait Telugu dataset, do cite the below paper
+
 @inproceedings{marreddy2021clickbait,
   title={Clickbait Detection in Telugu: Overcoming NLP Challenges in Resource-Poor Languages using Benchmarked Techniques},
   author={Marreddy, Mounika and Oota, Subba Reddy and Vakada, Lakshmi Sireesha and Chinni, Venkata Charan and Mamidi, Radhika},
