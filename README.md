@@ -46,6 +46,13 @@ For using the clickbait Telugu dataset, do cite the below paper
 
 For using the two class sentiment, four class emotion, sarcasm, and hatespeech Telugu datasets, do cite the below paper
 
+@article{marreddy2022multi,
+  title={Multi-Task Text Classification using Graph Convolutional Networks for Large-Scale Low Resource Language},
+  author={Marreddy, Mounika and Oota, Subba Reddy and Vakada, Lakshmi Sireesha and Chinni, Venkata Charan and Mamidi, Radhika},
+  journal={arXiv preprint arXiv:2205.01204},
+  year={2022}
+}
+
 # citations for using the Telug pretrained embeddings.
 @article{marreddy2022resource,
   title={Am I a Resource-Poor Language? Data Sets, Embeddings, Models and Analysis for four different NLP tasks in Telugu Language},
