@@ -72,4 +72,12 @@ For using the clickbait Telugu dataset, do cite the below paper
 }
 
 
+# citation for using the Telug graph based embeddings.
+@article{marreddy2022multi,
+  title={Multi-Task Text Classification using Graph Convolutional Networks for Large-Scale Low Resource Language},
+  author={Marreddy, Mounika and Oota, Subba Reddy and Vakada, Lakshmi Sireesha and Chinni, Venkata Charan and Mamidi, Radhika},
+  journal={arXiv preprint arXiv:2205.01204},
+  year={2022}
+}
+
 
