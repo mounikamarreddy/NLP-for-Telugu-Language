@@ -2,6 +2,10 @@
 
 In this github repo, the code for each of research papers are placed as zip folders.
 
+we crawled our corpus of 63,78,180 sentences. Besides, we added the available Telugu Wikipedia dump of 16,37,408 sentences (at the time we created the corpus). The total Telugu corpus has 80,15,588 sentences. The Telugu corpus (this we converted to wx notation for our experimental use), can be downloaded from the below link:
+https://iiitaphyd-my.sharepoint.com/:t:/g/personal/mounika_marreddy_research_iiit_ac_in/EXCQvtPr0XRJoj6YW7Ue-tIBB29bltzCLxBRCyPD4CwvQQ?e=Zlbp8k
+
+
 If anyone want train/test/validation split of the datasets that I mentioned in my papers, please refer the below hugging face link:
 https://huggingface.co/mounikaiiith
 The hugging face link consists of five different Telugu datasets.
