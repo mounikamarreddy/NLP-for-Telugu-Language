@@ -53,7 +53,7 @@ For using the two class sentiment, four class emotion, sarcasm, and hatespeech T
   year={2022}
 }
 
-# citations for using the Telug pretrained embeddings.
+# citations for using the Telugu pretrained embeddings.
 @article{marreddy2022resource,
   title={Am I a Resource-Poor Language? Data Sets, Embeddings, Models and Analysis for four different NLP tasks in Telugu Language},
   author={Marreddy, Mounika and Oota, Subba Reddy and Vakada, Lakshmi Sireesha and Chinni, Venkata Charan and Mamidi, Radhika},
